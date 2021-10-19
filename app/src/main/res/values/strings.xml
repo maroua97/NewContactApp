@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">MyContacts</string>
+    <string name="nom">Nom</string>
+    <string name="nom_text">Veuillez saisir votre nom</string>
+    <string name="prenom">Prénom</string>
+    <string name="prenom_text">Veuillez saisir votre prénom</string>
+    <string name="date_naissance">Date de naissance</string>
+    <string name="date_naissance_text">dd.mm.yyyy</string>
+    <string name="ville_naissance">Ville de naissance</string>
+    <string name="ville_naissance_text">Veuillez saisir votre ville de naissance</string>
+    <string name="departement">Département</string>
+    <string name="numero_telephone">Numéro de téléphone</string>
+    <string name="numero_telephone_text">xx xx xx xx xx</string>
+    <string name="validate_button">Valider</string>
+    <string name="add_phone_button">Ajouter un numéro de téléphone</string>
+    <string name="action_text">DISMISS</string>
+    <string name="reset_action">Resaisir les champs</string>
+    <string name="search_city">A propos de la ville de naissance</string>
+    <string name="send_city">Partager la ville de naissance</string>
+    <string name="cancelDate">Annuler</string>
+    <string name="back">Retour</string>
+    <string name="recap">Récapitulatif</string>
+    <string name="take_photo">Prendre une photo</string>
+    <string name="comment_pic">Ecrire un commentaire</string>
+    <string name="save_comment">Sauvegarder</string>
+</resources>

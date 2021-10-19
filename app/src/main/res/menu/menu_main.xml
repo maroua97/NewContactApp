@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:id="@+id/resetAction"
+        android:title="@string/reset_action"
+        android:onClick="resetAction">
+    </item>
+    <item android:id="@+id/searchCity"
+        android:title="@string/search_city"
+        android:onClick="searchCity">
+    </item>
+    <item android:id="@+id/sendCity"
+        android:title="@string/send_city"
+        android:onClick="sendCity">
+    </item>
+
+</menu>
